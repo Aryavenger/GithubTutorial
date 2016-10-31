@@ -1,2 +1,13 @@
 # Github-Tutorial
 Tutorial for github
+
+# How Upload project to github
+
+1. git init
+2. git add *
+3. git status
+4. git commit -m "Commit Pertama"
+5. git remote add origin https://github.com/gedelumbung/OptionMenu.git
+6. git push origin master kalau error git pull --rebase kemudian git push origin master
+7. masukkan username & password Github
+8. selesai
