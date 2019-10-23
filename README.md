@@ -29,3 +29,8 @@ Tutorial for github
 
 # Another Function
 1. git pull --ff-only
+
+# How to handle error Updates were rejected because the tip of your current branch is behind
+1. git pull https://github.com/Aryavenger/Harrisma.git master
+2. git pull origin master --allow-unrelated-histories
+3. git push origin maste
