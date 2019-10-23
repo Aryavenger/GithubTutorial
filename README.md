@@ -1,4 +1,4 @@
-# Github-Tutorial
+# Github Tutorial
 Tutorial for github
 
 # How Upload project to github
