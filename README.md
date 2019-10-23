@@ -6,7 +6,7 @@ Tutorial for github
 2. git add *
 3. git status
 4. git commit -m "Commit Pertama"
-5. git remote add origin <remote>
+5. git remote add origin https://github.com/Aguzrybudy/GithubTutorial.git
 6. git push origin master kalau error git pull --rebase kemudian git push origin master
 7. masukkan username & password Github
 8. selesai
@@ -31,6 +31,6 @@ Tutorial for github
 1. git pull --ff-only
 
 ### How to handle error Updates were rejected because the tip of your current branch is behind
-1. git pull <remote> master
+1. git pull https://github.com/Aguzrybudy/GithubTutorial.git master
 2. git pull origin master --allow-unrelated-histories
 3. git push origin maste
