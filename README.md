@@ -33,4 +33,4 @@ Tutorial for github
 ### How to handle error Updates were rejected because the tip of your current branch is behind
 1. git pull https://github.com/Aguzrybudy/GithubTutorial.git master
 2. git pull origin master --allow-unrelated-histories
-3. git push origin maste
+3. git push origin master
