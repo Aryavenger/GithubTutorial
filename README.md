@@ -34,3 +34,10 @@ Tutorial for github
 1. git pull https://github.com/Aguzrybudy/GithubTutorial.git master
 2. git pull origin master --allow-unrelated-histories
 3. git push origin master
+
+### How to abort merge
+1. git merge --abort
+2. git pull (to be sure you're up-to-date)
+3. git add README.md
+4. git commit -m "comment"
+5. git push
