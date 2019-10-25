@@ -41,3 +41,9 @@ Tutorial for github
 3. git add README.md
 4. git commit -m "comment"
 5. git push
+
+### How to add new branch
+1. Create branch for github website in respository
+2. git branch -a // to get listh branch
+3. git branch development // to get new brand created
+4. git checkout <branch name> // to switch brand
