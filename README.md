@@ -1,7 +1,7 @@
 # Github Tutorial
 Tutorial for github
 
-### How Upload project to github
+### How Upload project to github V1
 1. git init
 2. git add *
 3. git status
@@ -10,6 +10,17 @@ Tutorial for github
 6. git push origin master kalau error git pull --rebase kemudian git push origin master
 7. masukkan username & password Github
 8. selesai
+
+### How Upload project to github V2
+1. Create new respository in github
+2. git init in your folder
+3. git pull https://github.com/Aguzrybudy/GithubTutorial.git <branch_name>
+4. git status
+5. git add *
+6. git commit -m "Keterangan Commit"
+7. git remote add origin https://github.com/Aguzrybudy/GithubTutorial.git
+8. git push origin
+9. Done
 
 ### How to add/change username & email
 1. git config --global user.name "John Doe" //setting username
