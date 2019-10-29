@@ -19,7 +19,7 @@ Tutorial for github
 5. git add *
 6. git commit -m "Keterangan Commit"
 7. git remote add origin https://github.com/Aguzrybudy/GithubTutorial.git
-8. git push origin
+8. git push origin <branch_name>
 9. Done
 
 ### How to add/change username & email
