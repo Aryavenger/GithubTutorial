@@ -58,3 +58,13 @@ Tutorial for github
 2. git branch -a // to get listh branch
 3. git branch development // to get new brand created
 4. git checkout <branch name> // to switch brand
+  
+### How to delete file from commit
+1. git reset --soft HEAD^ or git reset --soft HEAD~1
+2. git reset HEAD path/to/unwanted_file
+3. git commit -c ORIG_HEAD
+
+### How to delete the file from your local and the remote repository, you can
+1. git rm path/to/unwanted_file
+2. git commit --amend
+3. git rm --cached
