@@ -67,4 +67,4 @@ Tutorial for github
 ### How to delete the file from your local and the remote repository, you can
 1. git rm path/to/unwanted_file
 2. git commit --amend
-3. git rm --cached
+3. git rm --cached path/to/unwanted_file
