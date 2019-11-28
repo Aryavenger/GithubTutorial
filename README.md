@@ -75,3 +75,9 @@ Tutorial for github
 2. git commit -m "removing deleted files from tracking"
 3. git push origin master (ignore when error)
 4. git status
+
+### How to Remove a directory from Git Repository
+1. git rm -r name_directory
+2. git commit -m "Removed name_directory directory"
+3. git push origin master   
+4. git status
