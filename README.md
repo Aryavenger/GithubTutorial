@@ -68,3 +68,10 @@ Tutorial for github
 1. git rm path/to/unwanted_file
 2. git commit --amend
 3. git rm --cached path/to/unwanted_file
+
+
+### How to remove deleted files from showing up in my local git status
+1. git add -u .
+2. git commit -m "removing deleted files from tracking"
+3. git push origin master (ignore when error)
+4. git status
