@@ -81,3 +81,8 @@ Tutorial for github
 2. git commit -m "Removed name_directory directory"
 3. git push origin master   
 4. git status
+
+### How to change the URI (URL) for a remote Git repository
+1. git remote -v (View existing remotes)
+2. git remote set-url origin https://github.com/user/repo2.git (Change the 'origin' remote's URL)
+3. git remote -v (Verify new remote URL)
