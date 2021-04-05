@@ -86,3 +86,6 @@ Tutorial for github
 1. git remote -v (View existing remotes)
 2. git remote set-url origin https://github.com/user/repo2.git (Change the 'origin' remote's URL)
 3. git remote -v (Verify new remote URL)
+
+### How to clone github respository
+1. git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
